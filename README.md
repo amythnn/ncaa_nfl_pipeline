@@ -1,4 +1,4 @@
-# NCAA → NFL Pipeline 🏈📊
+# Saturdays to Sundays (NCAA to NFL Pipeline) 🏈📊
 
 ## Project Overview
 **NCAA → NFL Pipeline** visualizes how major college football programs (Big Ten & SEC) send players into the NFL Draft. 
