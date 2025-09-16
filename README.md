@@ -1,7 +1,7 @@
 # Saturdays to Sundays (NCAA to NFL Pipeline) 🏈📊
 
 ## Project Overview
-**NCAA → NFL Pipeline** visualizes how major college football programs (Big Ten & SEC) send players into the NFL Draft. 
+**Saturdays to Sundays (NCAA to NFL Pipeline)** visualizes how major college football programs (Big Ten & SEC) send players into the NFL Draft. 
 Using scraped Wikipedia draft data, the project builds interactive Plotly Sankey diagrams with college colors and NFL team colors, plus hover tooltips that show each drafted player.
 
 It demonstrates the full workflow on NCAA → NFL draft data: scraping from Wikipedia, data cleaning, aggregation into tidy CSVs, building interactive Sankey diagrams, and exporting .html visualizations.
