@@ -41,3 +41,12 @@ python scripts/build_sankey.py \
 Outputs will be saved in the respective folders:
 - data/cfb_nfl_counts.csv — cleaned draft data
 - viz/cfb_sankey_2025.html — interactive Sankey visualization
+
+---
+
+## Dual Licensing Notice
+
+- **Code:** All original code in this repository is licensed under the [MIT License](./LICENSE).  
+- **Data & Attribution:** This project uses content from [Wikipedia NFL Draft pages](https://en.wikipedia.org/wiki/NFL_Draft), © Wikipedia contributors, available under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.  
+  - Any derivative visualizations or data artifacts generated from Wikipedia content must also comply with CC BY-SA 4.0.  
+  - This repository does not redistribute raw Wikipedia data; it only provides scripts and visualizations for educational purposes. 
