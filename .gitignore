@@ -1,0 +1,32 @@
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Data / outputs (users can regenerate)
+data/
+viz/
+*.csv
+*.json
+*.html
+
+# Logs
+*.log
