@@ -3,7 +3,14 @@
 
 """
 Data source: Wikipedia NFL Draft pages (https://en.wikipedia.org/wiki/{year}_NFL_Draft)
-This project scrapes publicly available draft pick tables from Wikipedia for educational purposes.
+
+This project scrapes publicly available draft pick tables from Wikipedia for educational purposes.  
+
+Content from Wikipedia is available under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.  
+See: https://creativecommons.org/licenses/by-sa/4.0/  
+
+Attribution: © Wikipedia contributors. Source data from the relevant NFL Draft pages on Wikipedia.  
+Any derivative work from this project must also be shared under the same CC BY-SA license.
 """
 
 # install requirements if not already present
